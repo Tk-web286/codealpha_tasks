@@ -51,13 +51,13 @@ CodeAlpha_Network_Sniffer/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha_BasicNetworkSniffer.git
+git clone https://github.com/your-username/CodeAlpha_Network_Sniffer.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd CodeAlpha_BasicNetworkSniffer
+cd CodeAlpha_Network_Sniffer
 ```
 
 ### Install Required Dependencies
@@ -75,13 +75,13 @@ pip install scapy
 Run Command Prompt as Administrator and execute:
 
 ```bash
-python network_sniffer.py
+python packet_sniffer.py
 ```
 
 ### Linux / Kali Linux
 
 ```bash
-sudo python3 network_sniffer.py
+sudo python3 packet_sniffer.py
 ```
 
 ---
